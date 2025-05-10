@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Patrice]
+# 👋 Hey there! I'm Patrice
 
 🚀 Passionate Software Engineer | 💡 Visionary Thinker | 🌍 Purpose-Driven Creator
 
