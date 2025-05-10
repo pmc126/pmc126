@@ -23,9 +23,6 @@ I'm a developer who believes in building with integrity, creativity, and purpose
 - 🧪 Sharpening Testing & Automation Skills (JUnit | Selenium | CI/CD)
 - 📱 Advancing Mobile App Development (Flutter | Android Studio)
 - ☁️ Exploring Cloud Computing (AWS | Firebase | Azure Fundamentals)
-
----
-
 ---
 
 > _“Code with purpose. Build with vision. Live with integrity.”_
