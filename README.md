@@ -20,7 +20,9 @@ I'm a developer who believes in building with integrity, creativity, and purpose
 ---
 
 ### 📈 Current Focus
-- 🧪 Sharpening testing and automation skills
+- 🧪 Sharpening Testing & Automation Skills (JUnit | Selenium | CI/CD)
+- 📱 Advancing Mobile App Development (Flutter | Android Studio)
+- ☁️ Exploring Cloud Computing (AWS | Firebase | Azure Fundamentals)
 
 ---
 
