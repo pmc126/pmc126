@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Patrice
 
-🚀 Passionate Software Engineer | 💡 Visionary Thinker | 🌍 Purpose-Driven Creator
+🚀 Software Engineer | 💡 Visionary Thinker | 🌍 Purpose-Driven Architect
 
-I'm a developer who believes in building with integrity, creativity, and purpose. I specialize in:
+I'm a student developer who believes in building with integrity, creativity, and purpose. I specialize in:
 - 🖥️ Full-Stack Web Development (JavaScript | PHP | React | Node.js)
 - 🧠 Strategic Problem Solving & System Design
 
@@ -21,8 +21,7 @@ I'm a developer who believes in building with integrity, creativity, and purpose
 
 ### 📈 Current Focus
 - 🧪 Sharpening Testing & Automation Skills (JUnit | Selenium | CI/CD)
-- 📱 Advancing Mobile App Development (Flutter | Android Studio)
-- ☁️ Exploring Cloud Computing (AWS | Firebase | Azure Fundamentals)
+- 📱 Advancing Mobile App Development (Android Studio)
 ---
 
 > _“Code with purpose. Build with vision. Live with integrity.”_
