@@ -1,6 +1,6 @@
 🚀 **Software Engineer** | 💡 **Visionary Thinker** | 🌍 **Purpose-Driven Architect**
 
-Software engineering student passionate about creating impactful solutions built on **integrity, creativity & a purpose**.
+Software engineering student passionate about creating impactful solutions built on **integrity, creativity & purpose**.
 
 I specialize in:
 
