@@ -1,6 +1,6 @@
 🚀 | 💡 | 🌍
 
-Software Engineering Student specializing in:
+Software Engineering Student specialised in:
 
 * 🖥️ **Full-Stack Web Development** (JavaScript | PHP | React)
 * 🧠 **Database Systems**
