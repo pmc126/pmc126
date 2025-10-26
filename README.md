@@ -1,11 +1,9 @@
-🚀 **Software Engineer** | 💡 **Visionary Thinker** | 🌍 **Purpose-Driven Architect**
+🚀 | 💡 | 🌍
 
-Software engineering student passionate about creating impactful solutions built on **integrity, creativity & purpose**.
-
-I specialize in:
+Software Engineering Student specializing in:
 
 * 🖥️ **Full-Stack Web Development** (JavaScript | PHP | React)
-* 🧠 **Problem Solving, System Analysis & Design**
+* 🧠 **Database Systems**
 
 ---
 
@@ -23,7 +21,7 @@ I specialize in:
 
 ### 📈 Current Focus
 
-* 🧪 Sharpening **Testing & Automation** skills (JUnit | Selenium | CI/CD)
-* 📱 Advancing **Mobile App Development** with Android Studio
+* 🧪 **Testing & Automation** skills (JUnit | Selenium | CI/CD)
+* 📱 **Mobile App Development** with Android Studio
 
 ---
