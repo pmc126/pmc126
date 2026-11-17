@@ -1,27 +1,17 @@
-🚀 | 💡 | 🌍
+I have officially retired from my student era.
 
-Software Engineering Student specialised in:
+My journey through software engineering was never just about learning how to build systems and write code. It was about understanding systems, exploring how things work, developing a problem-solving mindset and gaining the exposure to think beyond conventional boundaries.
 
-* 🖥️ **Full-Stack Web Development** (JavaScript | PHP | React)
-* 🧠 **Database Systems**
+I am interested in the intersection of **technology, business, innovation, systems thinking and enterprise development.**
 
----
+### Philosophy
 
-### 🔧 Tech Stack
+> Understand how things work. Question what can be improved. Build what ought to exist.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Relational Databases](https://img.shields.io/badge/Relational%20Databases-336791?style=flat\&logo=database\&logoColor=white)
+I believe technology is more than a tool for solving problems, it is an instrument for creating opportunities, transforming industries and building enduring enterprises.
+
+**The student chapter is closed. See you in the next chapter.**
 
 ---
 
-### 📈 Current Focus
-
-* 🧪 **Testing & Automation** skills (JUnit | Selenium | CI/CD)
-* 📱 **Mobile App Development** with Android Studio
-
----
+*Curiosity remains.*
